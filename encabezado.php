@@ -20,7 +20,7 @@
             <a class="navbar-item" href="https://parzibyte.me/blog">
                 <img alt="" src="https://raw.githubusercontent.com/parzibyte/ejemplo-mern/master/src/img/parzibyte_logo.png" style="max-height: 100px; display: none;" />
             </a>
-            <a class="navbar-item" href="#">
+            <a class="navbar-item" href="tienda.php">
                 <img alt="b" src="https://i.pinimg.com/originals/d9/f6/91/d9f691e9ffb69e5e10a9d76efc58adfa.jpg" style="max-height: 100px" />
             </a>
             <button class="navbar-burger is-warning button" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">

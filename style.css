@@ -8,3 +8,13 @@
     background-color: rgb(25, 206, 143);
 }
 
+.term-a{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.finish-button{
+    display: flex;
+    justify-content: center;
+}
